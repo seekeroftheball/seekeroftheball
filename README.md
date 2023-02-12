@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm a game and tools developer using Unity and C#
+I'm a Unity3D game and tools developer.
 
-Here are my recent open-source Unity tools:
+🛠️ Here are my recent open-source Unity tools:
 - [New Folder Wizard (v1.1 - Feb 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool)
 - [Emoji Library](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c.js)
 
-Here are some additional miscellaneous tutorials/example projects:
+🎓 Here are some additional miscellaneous tutorials/example projects:
 - [Editor Modal](https://github.com/seekeroftheball/EditorModal)
 - [Menu Validation](https://github.com/seekeroftheball/MenuItemValidationExample)
 
