@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Unity3D game and tools developer.
+I'm a Unity game and tools developer.
 
 🛠️ Here are my recent open-source Unity tools:
 - [New Folder Wizard (v1.1 - Feb 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool)
