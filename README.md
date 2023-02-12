@@ -6,7 +6,7 @@
 
 🎓 Here are some additional miscellaneous tutorials/example projects
 - [Editor Pop-up Modal Example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example.
-- [Menu Validation Example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / Disable menu items.
+- [Menu Validation Example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items.
 
 <!--
 **seekeroftheball/seekeroftheball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
