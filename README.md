@@ -2,7 +2,7 @@
 
 🛠️ Here are my recent open-source Unity tools
 - [New Folder Wizard (v1.1 - Feb 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
-- [Lightweight Emoji Library 😁](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c.js) - Use emojis in-game, in the console log, or in the Unity Editor.
+- [Lightweight Emoji Library 😁](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c.js) - Use emojis in-game, in the console log, or in the Unity editor.
 
 🎓 Here are some additional miscellaneous tutorials/example projects
 - [Editor Pop-up Modal Example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example.
