@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a Unity game and tools developer making open-source projects.
 
 🛠️ Here are my recent open-source Unity tools
-- [New Folder Wizard (v1.1 - Feb 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
+- [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
 - [Lightweight Emoji Library 😁](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
 
 🎓 Here are some additional miscellaneous tutorials/example projects
