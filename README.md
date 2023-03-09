@@ -8,7 +8,7 @@
 - [Editor Pop-up Modal Example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example.
 - [Menu Validation Example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items.
 
-There are more exciting tools and tutorials currently in development and coming soon.
+There are more tools and tutorials currently in development and coming soon.
 
 I'm also a programming lead on a team of around 30 volunteer developers making a retro 3D PS1 style game for our portfolios. We'll be releasing it for free on Steam and Itch once it's complete. Interested in joining the team? Reach out! More info here: https://github.com/alexitsios/Calamity/wiki
 
