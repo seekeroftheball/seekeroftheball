@@ -13,8 +13,8 @@ There are more tools and tutorials currently in development and coming soon.
 I'm also a programming lead on a team of around 30 volunteer developers making a retro 3D PS1 style game for our portfolios. We'll be releasing it for free on Steam and Itch once it's complete. Interested in joining the team? Reach out! More info here: https://github.com/alexitsios/Calamity/wiki
 
 I am proficient with these skills and tools:<br />
-[![csharp](https://user-images.githubusercontent.com/8204808/224120324-8c504353-db8d-4971-9368-0776f226af0e.png)]()
-[![unity](https://user-images.githubusercontent.com/8204808/224120343-76736239-9293-4277-ac5d-d486637e899b.png)]()
+[![csharp](https://user-images.githubusercontent.com/8204808/224120324-8c504353-db8d-4971-9368-0776f226af0e.png)](#)
+[![unity](https://user-images.githubusercontent.com/8204808/224120343-76736239-9293-4277-ac5d-d486637e899b.png)](#)
 [![visual-studio](https://user-images.githubusercontent.com/8204808/224120345-8841798c-d6a3-4dfa-8c2f-3e8a37f8f6d6.png)](#)
 [![git](https://user-images.githubusercontent.com/8204808/224120335-da34fb40-de13-4d02-9381-9498e078bc02.png)](#)
 [![Kanban](https://user-images.githubusercontent.com/8204808/224120337-b5b87da6-d248-45b5-8f12-b712765e2b7b.png)](#)
