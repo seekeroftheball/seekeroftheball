@@ -8,8 +8,8 @@
 - [Quickly resize collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script
 
 🎓 Miscellaneous tutorials and example projects.
-- [Editor pop-up modal example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example.
-- [Menu validation example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items.
+- [Editor pop-up modal example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example in Unity.
+- [Menu validation example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items in Unity.
 
 ### Reach me here:
 [![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
