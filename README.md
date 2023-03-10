@@ -1,4 +1,4 @@
-## Greetings! 👋  I'm a Unity game and tools developer making open-source projects.
+## Greetings! 👋  I'm a Unity game developer making open-source tools.
 
 🛠️ Here are my recent open-source Unity tools
 - [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
@@ -9,8 +9,8 @@
 - [Menu Validation Example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items.
 
 ### Reach me here:
-[![discord](https://user-images.githubusercontent.com/8204808/224120328-05874fcd-f17d-42c9-be66-3103bf12788f.png)](https://discordapp.com/users/SeekeroftheBall#3389)
-[![reddit](https://user-images.githubusercontent.com/8204808/224125582-6c2d88fa-a186-439d-8d65-c3f3e0a1d439.png)](https://www.reddit.com/user/SeekeroftheBall)
+[![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
+[![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
 
 ## Team Projects
 I'm also a programming lead on a team of ~30 volunteer developers making a retro 3D PS1 style game in Unity. We'll be releasing it for free on Steam and Itch once it's complete. More info here: https://github.com/alexitsios/Calamity/wiki
