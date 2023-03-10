@@ -26,6 +26,7 @@ _Interested in joining the team? Reach out!_
 [![html5](https://user-images.githubusercontent.com/8204808/224191825-486a0421-64ed-428b-b221-4b1679d1adfd.jpg)](#)
 [![css3](https://user-images.githubusercontent.com/8204808/224191822-7d620d5e-d913-4b90-8bc2-87cd07bd42f9.jpg)](#)
 [![markdown](https://user-images.githubusercontent.com/8204808/224191831-9e93e9f1-1eea-4d12-bdc7-4ad569da77c6.jpg)](#)
+[![bash](https://user-images.githubusercontent.com/8204808/224203406-712223d2-9b7b-4eab-a1d8-274507b0d374.jpg)](#)
 <br />
 [![unity](https://user-images.githubusercontent.com/8204808/224191842-dd4921a0-036f-4007-b0ec-1e135f714b77.jpg)](#)
 [![visual-studio](https://user-images.githubusercontent.com/8204808/224191844-f701fda2-147d-4519-bab1-b34b3a53bdce.jpg)](#)
