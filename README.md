@@ -1,16 +1,12 @@
 ## Greetings! 👋  I'm a Unity game and tools developer making open-source projects.
 
-_I'm actively seeking new opportunities in game development._
-
-### 🛠️ Here are my recent open-source Unity tools
+🛠️ Here are my recent open-source Unity tools
 - [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
 - [Lightweight Emoji Library for Unity 😁 (v1.1 - March 2023)](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
 
-### 🎓 Here are some additional miscellaneous tutorials/example projects
+🎓 Here are some additional miscellaneous tutorials/example projects
 - [Editor Pop-up Modal Example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example.
 - [Menu Validation Example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items.
-
-_More tools and tutorials currently in development and coming soon._
 
 ### Reach me here:
 [![discord](https://user-images.githubusercontent.com/8204808/224120328-05874fcd-f17d-42c9-be66-3103bf12788f.png)](https://discordapp.com/users/SeekeroftheBall#3389)
@@ -21,28 +17,29 @@ I'm also a programming lead on a team of ~30 volunteer developers making a retro
 
 _Interested in joining the team? Reach out!_
 
-## Skills and tools:
-[![csharp](https://user-images.githubusercontent.com/8204808/224120324-8c504353-db8d-4971-9368-0776f226af0e.png)](#)
-[![sql](https://user-images.githubusercontent.com/8204808/224178020-d895a826-a948-4b2c-b038-5689028bd9f6.png)](#)
-[![php](https://user-images.githubusercontent.com/8204808/224178018-5393a39d-8334-46ba-9e9c-255150c7361c.png)](#)
-[![javascript](https://user-images.githubusercontent.com/8204808/224178016-227dc40d-5f78-490b-a8b5-f154c3d4058c.png)](#)
-[![html5](https://user-images.githubusercontent.com/8204808/224178014-a2617625-4be9-4972-a78d-69dfe79b03c6.png)](#)
-[![css3](https://user-images.githubusercontent.com/8204808/224178011-79ff135a-0732-4c16-8fca-5b95678697c6.png)](#)
-[![markdown](https://user-images.githubusercontent.com/8204808/224182384-e10f477a-7952-4849-a204-f3c9bc6904e8.png)](#)
-<br />
+## Skills and tools that I use:
 
-[![unity](https://user-images.githubusercontent.com/8204808/224120343-76736239-9293-4277-ac5d-d486637e899b.png)](#)
-[![visual-studio](https://user-images.githubusercontent.com/8204808/224120345-8841798c-d6a3-4dfa-8c2f-3e8a37f8f6d6.png)](#)
-[![photoshop](https://user-images.githubusercontent.com/8204808/224120340-23f1e5d1-7260-4568-90f7-3721bee1840d.png)](#)
-[![Logic-pro](https://user-images.githubusercontent.com/8204808/224120339-a9664f32-2d94-4789-bc6b-00b9fdc9653a.png)](#)
-[![Audacity](https://user-images.githubusercontent.com/8204808/224120318-df340d8c-c5c4-4649-a1bb-6d064b5c5075.png)](#)
+[![csharp](https://user-images.githubusercontent.com/8204808/224191821-3a3ddf68-7252-40f1-a65c-0d1939b0b2a1.jpg)](#)
+[![sql](https://user-images.githubusercontent.com/8204808/224191838-8a7ef900-c4b7-4e64-bd68-7d0a1cd6d03d.jpg)](#)
+[![php](https://user-images.githubusercontent.com/8204808/224191834-7619b321-485d-4e59-9dbd-cb198704185d.jpg)](#)
+[![javascript](https://user-images.githubusercontent.com/8204808/224191826-45864079-c89d-439a-b779-ae54bf04495d.jpg)](#)
+[![html5](https://user-images.githubusercontent.com/8204808/224191825-486a0421-64ed-428b-b221-4b1679d1adfd.jpg)](#)
+[![css3](https://user-images.githubusercontent.com/8204808/224191822-7d620d5e-d913-4b90-8bc2-87cd07bd42f9.jpg)](#)
+[![markdown](https://user-images.githubusercontent.com/8204808/224191831-9e93e9f1-1eea-4d12-bdc7-4ad569da77c6.jpg)](#)
 <br />
-[![git](https://user-images.githubusercontent.com/8204808/224120335-da34fb40-de13-4d02-9381-9498e078bc02.png)](#)
-[![Kanban](https://user-images.githubusercontent.com/8204808/224120337-b5b87da6-d248-45b5-8f12-b712765e2b7b.png)](#)
-[![scrum](https://user-images.githubusercontent.com/8204808/224120341-6d79ce02-8a23-4b18-85ae-3d21cc6e3d28.png)](#)
-[![trello](https://user-images.githubusercontent.com/8204808/224183574-6cfeffc3-94a4-450a-ab38-861a951d0f1c.png)](#)
-[![Excel](https://user-images.githubusercontent.com/8204808/224120333-613a8359-d455-4163-a532-75bfff83d2b8.png)](#)
-[![wordpress](https://user-images.githubusercontent.com/8204808/224183583-6899ada9-647b-44ee-a26f-eb19605c42a7.png)](#)
+[![unity](https://user-images.githubusercontent.com/8204808/224191842-dd4921a0-036f-4007-b0ec-1e135f714b77.jpg)](#)
+[![visual-studio](https://user-images.githubusercontent.com/8204808/224191844-f701fda2-147d-4519-bab1-b34b3a53bdce.jpg)](#)
+[![blender](https://user-images.githubusercontent.com/8204808/224191819-31dfcebc-6a13-47cd-870f-26f4bc68cb42.jpg)](#)
+[![photoshop](https://user-images.githubusercontent.com/8204808/224191833-ffe7fdf7-54bc-41d5-9cf0-d8b0d9a76569.jpg)](#)
+[![Logic-pro](https://user-images.githubusercontent.com/8204808/224191828-6d311862-5af0-4ba3-acf7-07d152b9fe2b.jpg)](#)
+[![Audacity](https://user-images.githubusercontent.com/8204808/224191818-60ed59ba-59d2-4bcc-9f9a-69e3f48a7546.jpg)](#)
+<br />
+[![git](https://user-images.githubusercontent.com/8204808/224195638-e3d743da-66f1-4b5b-9f0d-824d8a189958.jpg)](#)
+[![Kanban](https://user-images.githubusercontent.com/8204808/224191827-aca67896-24b2-4fd2-a48a-328057fafe91.jpg)](#)
+[![scrum](https://user-images.githubusercontent.com/8204808/224191835-0bebbd54-88cd-4e91-b998-d73f21ee4b82.jpg)](#)
+[![trello](https://user-images.githubusercontent.com/8204808/224191839-7b5b846b-0f8b-4471-8083-eef18dd919f1.jpg)](#)
+[![Excel](https://user-images.githubusercontent.com/8204808/224196173-5f2ca931-b0ff-4716-b3a8-c80db4fe592b.jpg)](#)
+[![wordpress](https://user-images.githubusercontent.com/8204808/224191845-358399b3-54d2-4750-ad5d-9a330c2ad6d9.jpg)](#)
 
 <!--
 **seekeroftheball/seekeroftheball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
