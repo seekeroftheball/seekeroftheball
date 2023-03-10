@@ -18,7 +18,7 @@
 ## Team Projects
 I'm a programming lead on a team of ~30 volunteers developing a retro 3D PS1/2-era survival horror game in Unity called Calamity. 
 
-We'll be releasing it for free on Steam, Epic, and Itch for Windows once it's complete. More info here: https://github.com/alexitsios/Calamity/wiki
+We'll be releasing it for free on Steam, Epic, and Itch for Windows once it's complete. More info here: https://github.com/alexitsios/Calamity/wiki/Story-Bible
 
 _Interested in joining the team? Reach out!_
 
