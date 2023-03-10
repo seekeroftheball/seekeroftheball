@@ -5,7 +5,7 @@
 - [Lightweight emoji library for Unity 😁 (v1.1 - March 2023)](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
 
 🔧 Other miscellaneous tools.
-- [Quickly resize collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script
+- [Quickly resize a collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script
 
 🎓 Miscellaneous tutorials and example projects.
 - [Editor pop-up modal example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example in Unity.
