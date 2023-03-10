@@ -1,4 +1,4 @@
-## Greetings! 👋  I'm a Unity game developer making open-source tools.
+## Greetings! 👋  I'm a Unity game developer and programmer making open-source tools.
 
 🛠️ Here are my recent open-source Unity tools.
 - [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
