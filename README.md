@@ -12,6 +12,7 @@
 - [Menu validation example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items in Unity.
 
 ### Reach me here:
+[![LinkedIn](https://user-images.githubusercontent.com/8204808/224697954-640e6d13-3b4d-4430-b476-f08b0197966c.png)](https://www.linkedin.com/in/jordan-wilgus/)
 [![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
 [![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
 
@@ -41,9 +42,10 @@ _Interested in joining the team? Reach out!_
 [![Audacity](https://user-images.githubusercontent.com/8204808/224191818-60ed59ba-59d2-4bcc-9f9a-69e3f48a7546.jpg)](#)
 <br />
 [![git](https://user-images.githubusercontent.com/8204808/224195638-e3d743da-66f1-4b5b-9f0d-824d8a189958.jpg)](#)
-[![Kanban](https://user-images.githubusercontent.com/8204808/224191827-aca67896-24b2-4fd2-a48a-328057fafe91.jpg)](#)
 [![scrum](https://user-images.githubusercontent.com/8204808/224191835-0bebbd54-88cd-4e91-b998-d73f21ee4b82.jpg)](#)
+[![jira](https://user-images.githubusercontent.com/8204808/224697951-c7aa3af2-e64a-43e9-a376-ec9a04f24f69.png)](#)
 [![trello](https://user-images.githubusercontent.com/8204808/224191839-7b5b846b-0f8b-4471-8083-eef18dd919f1.jpg)](#)
+[![Kanban](https://user-images.githubusercontent.com/8204808/224191827-aca67896-24b2-4fd2-a48a-328057fafe91.jpg)](#)
 [![Excel](https://user-images.githubusercontent.com/8204808/224196173-5f2ca931-b0ff-4716-b3a8-c80db4fe592b.jpg)](#)
 [![wordpress](https://user-images.githubusercontent.com/8204808/224191845-358399b3-54d2-4750-ad5d-9a330c2ad6d9.jpg)](#)
 
