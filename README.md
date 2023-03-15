@@ -18,6 +18,7 @@
 [![LinkedIn](https://user-images.githubusercontent.com/8204808/224697954-640e6d13-3b4d-4430-b476-f08b0197966c.png)](https://www.linkedin.com/in/jordan-wilgus/)
 [![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
 [![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
+[![gmail](https://user-images.githubusercontent.com/8204808/225286436-1ea5eed6-1a7b-4342-836e-824e6aabb887.png)](mailto:jordan.wilgus@gmail.com)
 
 ## Team Projects
 I'm an associate producer and programming lead on a team of ~30 volunteers developing a retro 3D PS1/2-era survival horror game in Unity called, Calamity. 
