@@ -4,6 +4,9 @@
 - [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
 - [Lightweight emoji library for Unity 😁 (v1.1 - March 2023)](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
 
+🧮 Useful C# algorithms.
+- [FindMax from any IComparable list of parameters.](https://gist.github.com/seekeroftheball/9c8ed33478f3907591588f0232195457)
+
 🔧 Other miscellaneous tools.
 - [Quickly resize a collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script
 
