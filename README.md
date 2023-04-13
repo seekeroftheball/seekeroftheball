@@ -1,4 +1,4 @@
-## Greetings! 👋  I'm a Unity game developer and programmer making open-source tools.
+## Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> I'm a Unity game developer and programmer making open-source tools.
 
 🛠️ Here are my recent open-source Unity tools.
 - [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
@@ -20,12 +20,11 @@
 [![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
 [![gmail](https://user-images.githubusercontent.com/8204808/225286436-1ea5eed6-1a7b-4342-836e-824e6aabb887.png)](mailto:jordan.wilgus@gmail.com)
 
-## Team Projects
-I'm an associate producer and programming lead on a team of ~30 volunteers developing a retro 3D PS1/2-era survival horror game in Unity called, Calamity. 
-
-We'll be releasing it on Steam, Epic, and Itch for Windows once it's complete. More info here: https://github.com/alexitsios/Calamity/wiki/Story-Bible
-
-_Interested in joining the team? Reach out!_
+## Current team projects:
+- [Calamity](https://github.com/alexitsios/Calamity/wiki) (3D Survival Horror Action-puzzle game, PC/Mac, tbd 2023, Unity)
+- Untitled Melody Game (2D Rhythm Platformer, PC/Android, 2023-2024, Unity)
+- Town of the Damned (Visual Novel, PC, 2023, Ren'Py)
+- SquidWolf (2D Platformer, PC, 2023-2024, Unity)
 
 ## Skills and tools that I use:
 
