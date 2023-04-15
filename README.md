@@ -1,4 +1,4 @@
-![Welcome](https://user-images.githubusercontent.com/8204808/232226321-7d4552f5-6b47-4eb7-b1c7-3c08c2ab4d40.svg)
+![Welcome](https://user-images.githubusercontent.com/8204808/232226756-da221544-bf3e-432c-84cb-10afe0756eca.svg)
 
 ## Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> I'm a game developer and programmer making open-source tools.
 
