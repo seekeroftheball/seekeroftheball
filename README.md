@@ -29,7 +29,7 @@
 - [Calamity](https://github.com/alexitsios/Calamity/wiki) (3D Survival Horror Action-puzzle game, PC/Mac, tbd 2023, Unity)
 - Untitled Melody Game (2D Rhythm Platformer, PC/Android, 2023-2024, Unity)
 - Town of the Damned (Visual Novel, PC, 2023, Ren'Py)
-- SquidWolf (2D Platformer, PC, 2023-2024, Unity)
+- [SquidWolf](https://github.com/essothesquid/Squidwolf/wiki) (3D Platformer, PC, 2023-2024, Unity)
 
 ## Skills and tools that I use:
 
