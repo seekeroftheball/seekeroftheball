@@ -1,12 +1,15 @@
-![Welcome](https://user-images.githubusercontent.com/8204808/232291554-46615a68-9df6-43d5-bd82-98ba096a7b6f.svg)
+![Welcome](https://user-images.githubusercontent.com/8204808/232295202-5c918de0-47c5-4293-94b4-7d031cfb44eb.svg)
 
-## Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> I'm a game developer and programmer making open-source tools.
+# Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&center=true&vCenter=true&width=435&height=32&lines=Welcome+to+my+profile!;I+%E2%9D%A4%EF%B8%8F+video+games!+%F0%9F%8E%AE;Over+18+years+OOP+experience!;12%2B+years+with+Unity!;Releasing+open+source+tools!)](https://git.io/typing-svg)
 
-🛠️ Here are my recent open-source tools for Unity.
-- [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
-- [Lightweight emoji library for Unity 😁 (v1.1 - March 2023)](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
+🛠️ My recent open-source tools for Unity.
+  
+  - [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
+  
+  - [Lightweight emoji library for Unity 😁 (v1.1 - March 2023)](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
 
 🧮 Useful C# algorithms.
+
 - [FindMax from any IComparable list of parameters.](https://gist.github.com/seekeroftheball/9c8ed33478f3907591588f0232195457)
 
 🔧 Other miscellaneous tools.
@@ -14,9 +17,9 @@
 
 🎓 Miscellaneous tutorials and example projects.
 - [Editor pop-up modal example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example in Unity.
-- [Menu validation example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items in Unity.
+- [Menu validation example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items in Unity.  
 
-### Reach me here:
+## Reach me here:
 [![LinkedIn](https://user-images.githubusercontent.com/8204808/224697954-640e6d13-3b4d-4430-b476-f08b0197966c.png)](https://www.linkedin.com/in/jordan-wilgus/)
 [![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
 [![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
