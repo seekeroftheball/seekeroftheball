@@ -18,7 +18,7 @@
 - [Editor pop-up modal example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example in Unity.
 - [Menu validation example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items in Unity.  
 
-## Team Projects
+## Game Development Teams I'm On
 - [Calamity](https://github.com/alexitsios/Calamity/wiki) (3D Survival Horror Action-puzzle game, PC/Mac, tbd 2023, Unity)
 - Untitled Melody Game (2D Rhythm Platformer game, PC/Android, tbd 2023, Unity)
 
