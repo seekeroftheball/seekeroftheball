@@ -27,9 +27,7 @@
 
 ## Current team projects:
 - [Calamity](https://github.com/alexitsios/Calamity/wiki) (3D Survival Horror Action-puzzle game, PC/Mac, tbd 2023, Unity)
-- Untitled Melody Game (2D Rhythm Platformer, PC/Android, 2023-2024, Unity)
-- Town of the Damned (Visual Novel, PC, 2023, Ren'Py)
-- [SquidWolf](https://github.com/essothesquid/Squidwolf/wiki) (3D Platformer, PC, 2023-2024, Unity)
+- Untitled Melody Game (2D Rhythm Platformer game, PC/Android, tbd 2023, Unity)
 
 ## Skills and tools that I use:
 
@@ -40,7 +38,6 @@
 [![html5](https://user-images.githubusercontent.com/8204808/224191825-486a0421-64ed-428b-b221-4b1679d1adfd.jpg)](#)
 [![css3](https://user-images.githubusercontent.com/8204808/224191822-7d620d5e-d913-4b90-8bc2-87cd07bd42f9.jpg)](#)
 [![markdown](https://user-images.githubusercontent.com/8204808/224191831-9e93e9f1-1eea-4d12-bdc7-4ad569da77c6.jpg)](#)
-[![bash](https://user-images.githubusercontent.com/8204808/224203406-712223d2-9b7b-4eab-a1d8-274507b0d374.jpg)](#)
 <br />
 [![unity](https://user-images.githubusercontent.com/8204808/224191842-dd4921a0-036f-4007-b0ec-1e135f714b77.jpg)](#)
 [![visual-studio](https://user-images.githubusercontent.com/8204808/224191844-f701fda2-147d-4519-bab1-b34b3a53bdce.jpg)](#)
@@ -50,7 +47,6 @@
 [![Audacity](https://user-images.githubusercontent.com/8204808/224191818-60ed59ba-59d2-4bcc-9f9a-69e3f48a7546.jpg)](#)
 <br />
 [![git](https://user-images.githubusercontent.com/8204808/224195638-e3d743da-66f1-4b5b-9f0d-824d8a189958.jpg)](#)
-[![jira](https://user-images.githubusercontent.com/8204808/224697951-c7aa3af2-e64a-43e9-a376-ec9a04f24f69.png)](#)
 [![scrum](https://user-images.githubusercontent.com/8204808/224191835-0bebbd54-88cd-4e91-b998-d73f21ee4b82.jpg)](#)
 [![trello](https://user-images.githubusercontent.com/8204808/224191839-7b5b846b-0f8b-4471-8083-eef18dd919f1.jpg)](#)
 [![Kanban](https://user-images.githubusercontent.com/8204808/224191827-aca67896-24b2-4fd2-a48a-328057fafe91.jpg)](#)
