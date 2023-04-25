@@ -2,35 +2,27 @@
 
 # Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&center=true&vCenter=true&width=435&height=32&lines=Welcome+to+my+profile!;I+%E2%9D%A4%EF%B8%8F+video+games!+%F0%9F%8E%AE;Over+18+years+OOP+experience!;12%2B+years+with+Unity!;Releasing+open+source+tools!)](https://git.io/typing-svg)
 
-🛠️ My Recent Unity Tools
-  
+📁 Organizational Tools
   - [New Folder Wizard (v1.2 - March 2023)](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
-  
+
+🎮 Gameplay Enhancing Tools
   - [Lightweight emoji library for Unity 😁 (v1.1 - March 2023)](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
 
-🧮 Useful C#
-
+💻 C# Programming Tools
 - [FindMax from any IComparable list of parameters.](https://gist.github.com/seekeroftheball/9c8ed33478f3907591588f0232195457)
 
-🔧 Miscellaneous Tools
+🛠️ Miscellaneous Tools
 - [Quickly resize a collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script
 
 🎓 Example Projects
 - [Editor pop-up modal example](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example in Unity.
 - [Menu validation example](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items in Unity.  
 
-## Reach Me Here
-[![LinkedIn](https://user-images.githubusercontent.com/8204808/224697954-640e6d13-3b4d-4430-b476-f08b0197966c.png)](https://www.linkedin.com/in/jordan-wilgus/)
-[![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
-[![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
-[![gmail](https://user-images.githubusercontent.com/8204808/225286436-1ea5eed6-1a7b-4342-836e-824e6aabb887.png)](mailto:jordan.wilgus@gmail.com)
-
 ## Team Projects
 - [Calamity](https://github.com/alexitsios/Calamity/wiki) (3D Survival Horror Action-puzzle game, PC/Mac, tbd 2023, Unity)
 - Untitled Melody Game (2D Rhythm Platformer game, PC/Android, tbd 2023, Unity)
 
 ## Tools I Use
-
 [![csharp](https://user-images.githubusercontent.com/8204808/224191821-3a3ddf68-7252-40f1-a65c-0d1939b0b2a1.jpg)](#)
 [![unity](https://user-images.githubusercontent.com/8204808/224191842-dd4921a0-036f-4007-b0ec-1e135f714b77.jpg)](#)
 [![git](https://user-images.githubusercontent.com/8204808/224195638-e3d743da-66f1-4b5b-9f0d-824d8a189958.jpg)](#)
@@ -47,6 +39,12 @@
 [![javascript](https://user-images.githubusercontent.com/8204808/224191826-45864079-c89d-439a-b779-ae54bf04495d.jpg)](#)
 [![markdown](https://user-images.githubusercontent.com/8204808/224191831-9e93e9f1-1eea-4d12-bdc7-4ad569da77c6.jpg)](#)
 [![wordpress](https://user-images.githubusercontent.com/8204808/224191845-358399b3-54d2-4750-ad5d-9a330c2ad6d9.jpg)](#)
+
+## Contact
+[![LinkedIn](https://user-images.githubusercontent.com/8204808/224697954-640e6d13-3b4d-4430-b476-f08b0197966c.png)](https://www.linkedin.com/in/jordan-wilgus/)
+[![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
+[![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
+[![gmail](https://user-images.githubusercontent.com/8204808/225286436-1ea5eed6-1a7b-4342-836e-824e6aabb887.png)](mailto:jordan.wilgus@gmail.com)
 
 <!--
 **seekeroftheball/seekeroftheball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
