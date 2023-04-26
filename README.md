@@ -9,7 +9,8 @@
   - [Lightweight emoji library for Unity 😁 (v1.1 - March 2023)](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
 
 💻 C# Programming Tools
-- [FindMax from any IComparable list of parameters.](https://gist.github.com/seekeroftheball/9c8ed33478f3907591588f0232195457)
+- [Multithreaded Object Pool](https://gist.github.com/seekeroftheball/5c0af00e8c3262e69561622854cc7411)
+- [FindMax from any IComparable list of parameters](https://gist.github.com/seekeroftheball/9c8ed33478f3907591588f0232195457)
 
 🛠️ Miscellaneous Tools
 - [Quickly resize a collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script
