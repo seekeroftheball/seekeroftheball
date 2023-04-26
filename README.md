@@ -13,7 +13,7 @@
 - [FindMax from any IComparable list of parameters](https://gist.github.com/seekeroftheball/9c8ed33478f3907591588f0232195457)
 
 🛠️ Miscellaneous Tools
-- [Batch resize a collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script
+- [Batch resize a collection of images](https://github.com/seekeroftheball/Resize-Images-Bash) - Bash shell script.
 
 🎓 Example Projects
 - [Editor pop-up modal](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example in Unity.
