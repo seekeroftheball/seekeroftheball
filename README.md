@@ -3,7 +3,7 @@
 # Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&center=true&vCenter=true&width=435&height=32&lines=Welcome+to+my+profile!;I+%E2%9D%A4%EF%B8%8F+video+games!+%F0%9F%8E%AE;Over+18+years+OOP+experience!;12%2B+years+with+Unity!;Releasing+open+source+tools!)](https://git.io/typing-svg)
 
 📁 Organizational Tools
-  - [New Folder Wizard](http://github.com/seekeroftheball/NewFolderWizard-Tool) - Organizational tool for creating new folders from a customizable template.
+  - [New Folder Wizard](http://github.com/seekeroftheball/NewFolderWizard-Tool) - ⭐️ [![GitHub stars](https://img.shields.io/github/stars/seekeroftheball/NewFolderWizard-Tool.svg)](https://github.com/seekeroftheball/NewFolderWizard-Tool/stargazers) - Organizational tool for creating new folders from a customizable template in Unity.
 
 🎮 Gameplay Enhancing Tools
   - [Lightweight emoji library for Unity 📦](https://gist.github.com/seekeroftheball/8a4655e7b98441aa05c472c82ad8bb1c) - Use emojis in-game, in the console log, or in the Unity editor.
