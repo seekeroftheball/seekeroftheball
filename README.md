@@ -2,6 +2,10 @@
 
 # Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&center=true&vCenter=true&width=435&height=32&lines=Welcome+to+my+profile!;I+%E2%9D%A4%EF%B8%8F+video+games!+%F0%9F%8E%AE;Over+18+years+OOP+experience!;12%2B+years+with+Unity!;Releasing+open+source+tools!)](https://git.io/typing-svg)
 
+I run a [YouTube channel for game developers where I discuss game design, programming, art, and music for game creators.](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw) 
+
+Find me @seekeroftheball
+
 💻 C# Programming Tools
 - [Multithreaded Object Pool](https://gist.github.com/seekeroftheball/5c0af00e8c3262e69561622854cc7411)
 - [FindMax from any IComparable list of parameters](https://gist.github.com/seekeroftheball/9c8ed33478f3907591588f0232195457)
@@ -18,10 +22,6 @@
 🎓 Example Projects
 - [Editor pop-up modal](https://github.com/seekeroftheball/EditorModal) - Simple pop-up alert example in Unity.
 - [Unity menu validation](https://github.com/seekeroftheball/MenuItemValidationExample) - Enable / disable menu items in Unity.  
-
-## Game Development Teams I'm On
-- [Calamity](https://github.com/alexitsios/Calamity/wiki) (3D Survival Horror Action-puzzle game, PC/Mac, tbd 2023, Unity)
-- Untitled Melody Game (2D Rhythm Platformer game, PC/Android, tbd 2023, Unity)
 
 ## Tools I Use
 [![csharp](https://user-images.githubusercontent.com/8204808/224191821-3a3ddf68-7252-40f1-a65c-0d1939b0b2a1.jpg)](#)
