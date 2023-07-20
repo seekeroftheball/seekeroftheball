@@ -2,7 +2,7 @@
 
 # Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&center=true&vCenter=true&width=435&height=32&lines=Welcome+to+my+profile!;I+%E2%9D%A4%EF%B8%8F+video+games!+%F0%9F%8E%AE;Over+18+years+OOP+experience!;12%2B+years+with+Unity!;Releasing+open+source+tools!)](https://git.io/typing-svg)
 
-I run a [YouTube channel for game developers where I discuss game design, programming, art, and music for game creators.](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw) 
+[I do a YouTube channel for video game creators where I discuss game design, programming, art, and music for game development.](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw) 
 
 Find me @seekeroftheball
 
@@ -42,7 +42,7 @@ Find me @seekeroftheball
 [![wordpress](https://user-images.githubusercontent.com/8204808/224191845-358399b3-54d2-4750-ad5d-9a330c2ad6d9.jpg)](#)
 
 ## Contact
-[![LinkedIn](https://user-images.githubusercontent.com/8204808/224697954-640e6d13-3b4d-4430-b476-f08b0197966c.png)](https://www.linkedin.com/in/jordan-wilgus/)
+[![youtube](https://github.com/seekeroftheball/seekeroftheball/assets/8204808/a10069d8-6496-4a24-a4b2-52d8c96f6bf2)](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw)
 [![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
 [![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
 [![gmail](https://user-images.githubusercontent.com/8204808/225286436-1ea5eed6-1a7b-4342-836e-824e6aabb887.png)](mailto:jordan.wilgus@gmail.com)
