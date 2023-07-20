@@ -42,7 +42,6 @@ Find me @seekeroftheball
 [![wordpress](https://user-images.githubusercontent.com/8204808/224191845-358399b3-54d2-4750-ad5d-9a330c2ad6d9.jpg)](#)
 
 ## Contact
-[![youtube](https://github.com/seekeroftheball/seekeroftheball/assets/8204808/a10069d8-6496-4a24-a4b2-52d8c96f6bf2)](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw)
 [![discord](https://user-images.githubusercontent.com/8204808/224197820-fbe8ea42-51b6-42ec-a64b-9669add75282.jpg)](https://discordapp.com/users/SeekeroftheBall#3389)
 [![reddit](https://user-images.githubusercontent.com/8204808/224197823-d2958cae-e53b-44f2-9b18-aaec8246bf63.jpg)](https://www.reddit.com/user/SeekeroftheBall)
 [![gmail](https://user-images.githubusercontent.com/8204808/225286436-1ea5eed6-1a7b-4342-836e-824e6aabb887.png)](mailto:jordan.wilgus@gmail.com)
