@@ -2,9 +2,9 @@
 
 # Greetings! <img src="https://user-images.githubusercontent.com/8204808/231772345-4391dcbc-16b1-4d48-bf85-e688e8bf0ded.gif" alt="Hi" width="32px"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&center=true&vCenter=true&width=435&height=32&lines=Welcome+to+my+profile!;I+%E2%9D%A4%EF%B8%8F+video+games!+%F0%9F%8E%AE;Over+18+years+OOP+experience!;12%2B+years+with+Unity!;Releasing+open+source+tools!)](https://git.io/typing-svg)
 
-[I do a YouTube channel for video game creators where I discuss game design, programming, art, and music for game development.](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw) 
+I do a [YouTube channel for video game creators](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw) where I discuss game design, programming, art, and music for game development.
 
-Find me @seekeroftheball
+Find me [@seekeroftheball](https://www.youtube.com/channel/UCiR-UCVPX-FwcylVVh0zjNw)
 
 💻 C# Programming Tools
 - [Multithreaded Object Pool](https://gist.github.com/seekeroftheball/5c0af00e8c3262e69561622854cc7411)
